@@ -1,9 +1,7 @@
 <template>
   <div id="app" class="container">
-    <b-row>
-      <Encabezado titulo="Eventos y Clases con VueJs"/>
-      <Formulario />
-    </b-row>
+    <Encabezado titulo="Eventos y Clases con VueJs"/>
+    <Formulario />
   </div>
 </template>
 
